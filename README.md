@@ -7,7 +7,11 @@
 </p>
 
 <p align="center">
-  <img src="./myModel.png" alt="model" width="150%" />
+  <img src="./assets/myModel.png" alt="model" width="150%" />
+</p>
+
+<p align="center">
+  <img src="./assets/lossGraph.png" alt="loss" width="40%" />
 </p>
 
 ---

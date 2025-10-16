@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 
-from preprocess import getDataset
-from model import getModel
+from src.preprocess import getDataset
+from src.model import getModel
 
 train_gen, val_gen = getDataset()
 
